@@ -75,7 +75,98 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+The Scrum Master facilitates agile ceremonies, removes blockers, and fosters continuous improvement. They ensure adherence to agile practices and support team cohesion.
+
+### Responsibilities
+- Facilitate daily standups, sprint planning, reviews, and retrospectives
+- Remove impediments and escalate blockers
+- Coach the team on agile best practices
+- Monitor team health and foster a collaborative culture
+
+### Interactions
+- Works closely with Developers, Project Manager, and Product Manager (PdM) to ensure smooth sprint execution and continuous process improvement.
+
+---
+
+## UX/UI Designer
+
+### Role Summary
+Designs user experiences and interfaces that align with usability and brand standards.
+
+### Responsibilities
+- Translate business requirements into user flows and prototypes
+- Conduct usability testing and integrate feedback
+- Deliver final UI assets and specs to Developers
+- Advocate for user needs and accessibility
+
+### Interactions
+- Collaborates with Product Managers for requirements, with Developers during implementation, and with Stakeholders to review user experience.
+
+---
+
+## Technical Writer
+
+### Role Summary
+Technical Writers produce and maintain internal and user-facing documentation to boost product usability and support.
+
+### Responsibilities
+- Write release notes, API docs, user guides, and onboarding materials
+- Update documentation in tandem with product changes
+- Interview Developers, PMs, and QA for technical accuracy
+
+### Interactions
+- Coordinates with all roles for timely, accurate information and ensures deliverables meet quality standards.
+
+---
+
+## Stakeholder/Sponsor
+
+### Role Summary
+Stakeholders/Sponsors provide high-level business context, feedback, and support for project escalation and resource prioritization.
+
+### Responsibilities
+- Approve objectives, milestones, and key deliverables
+- Participate in milestone reviews and retrospective feedback
+- Provide guidance, unblock cross-team issues, and champion the project in leadership forums
+
+### Interactions
+- Engage with PMs, PdMs, and Project Managers for updates, and ensure alignment of project direction with business strategy.
+
+---
+
+## Release Manager
+
+### Role Summary
+Oversees planning and coordination of release activities, ensuring compliance with deployment and rollback procedures.
+
+### Responsibilities
+- Define release windows, coordinate deployments, and maintain rollback strategies
+- Communicate release status and coordinate QA, Developers, and Operations
+- Track release checklist compliance
+
+### Interactions
+- Works with Developers, QA/Testing, PMs, and Stakeholders to coordinate production releases.
+
+---
+
+## Security Champion
+
+### Role Summary
+Acts as the voice for security best practices in the team, assists in threat modeling, and increases security awareness.
+
+### Responsibilities
+- Identify and manage security risks early in development
+- Collaborate on secure code reviews and threat modeling
+- Ensure compliance with security policies
+
+### Interactions
+- Works with Developers, QA, and PMs to promote the secure development lifecycle.
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
